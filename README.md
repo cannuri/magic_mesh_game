@@ -1,2 +1,7 @@
-# magic_mesh_game
-AI-meshed game from a 30-minute Game Jam in the Open Claw Discord voice channel. All participants put their games in and we let an AI Agent Engineer mesh them as an experiment.
+# Magic Mesh Game
+
+A collaborative experiment where individual 30-minute game jam entries get **meshed together by an AI agent** into one interconnected game world.
+
+## Origin: Open Claw Game Jam
+
+This project started at an Open Claw Game Jam - a 30-minute game jam where participants build a game of a wizard.
